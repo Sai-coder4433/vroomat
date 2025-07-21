@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Copy of vroomaatsai",
+  "description": "An automotive emergency response platform that connects users facing vehicle breakdowns with nearby garages in real-time, inspired by the seamless experience of apps like Uber and Ola.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
